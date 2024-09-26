@@ -63,7 +63,7 @@ header {
 
 /* Hero Section */
 .hero {
-    background: url('sobi/1v.png') no-repeat center center/cover;
+    background: url('1v.png') no-repeat center center/cover;
     height: 100vh;
     color: white;
     text-align: center;
